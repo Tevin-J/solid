@@ -1,1 +1,3 @@
-console.log('main.ts');
+import { TestShape } from './01_s/shape/index.js';
+
+TestShape.main();
